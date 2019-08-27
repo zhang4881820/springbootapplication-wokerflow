@@ -1,0 +1,14 @@
+com\honghh\bootfirst\dao\MyInfoMapper.class
+com\honghh\bootfirst\controller\FlowableController.class
+com\honghh\bootfirst\controller\HelloWordController.class
+com\honghh\bootfirst\utils\R.class
+com\honghh\bootfirst\config\SwaggerConfig.class
+com\honghh\bootfirst\service\impl\MyInfoServiceImpl.class
+com\honghh\bootfirst\service\MyInfoService.class
+com\honghh\bootfirst\config\MybatisPlusConfig.class
+com\honghh\bootfirst\delegate\ReviewNoApprove.class
+com\honghh\bootfirst\config\FlowableConfig.class
+com\honghh\bootfirst\controller\MyInfoController.class
+com\honghh\bootfirst\delegate\ReviewApprove.class
+com\honghh\bootfirst\entity\MyInfo.class
+com\honghh\bootfirst\BootFlowableApplication.class
